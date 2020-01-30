@@ -1,0 +1,9 @@
+C:\Users\Kyle\source\repos\TournamentTracker\TrackerUI\bin\Release\TrackerUI.exe.config
+C:\Users\Kyle\source\repos\TournamentTracker\TrackerUI\bin\Release\TrackerUI.exe
+C:\Users\Kyle\source\repos\TournamentTracker\TrackerUI\bin\Release\TrackerUI.pdb
+C:\Users\Kyle\source\repos\TournamentTracker\TrackerUI\obj\Release\TrackerUI.csprojAssemblyReference.cache
+C:\Users\Kyle\source\repos\TournamentTracker\TrackerUI\obj\Release\TrackerUI.Properties.Resources.resources
+C:\Users\Kyle\source\repos\TournamentTracker\TrackerUI\obj\Release\TrackerUI.TournamentViewerForm.resources
+C:\Users\Kyle\source\repos\TournamentTracker\TrackerUI\obj\Release\TrackerUI.csproj.GenerateResource.cache
+C:\Users\Kyle\source\repos\TournamentTracker\TrackerUI\obj\Release\TrackerUI.exe
+C:\Users\Kyle\source\repos\TournamentTracker\TrackerUI\obj\Release\TrackerUI.pdb

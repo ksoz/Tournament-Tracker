@@ -1,0 +1,4 @@
+C:\Users\Kyle\source\repos\TournamentTracker\TournamentLibrary\bin\Release\TournamentLibrary.dll
+C:\Users\Kyle\source\repos\TournamentTracker\TournamentLibrary\bin\Release\TournamentLibrary.pdb
+C:\Users\Kyle\source\repos\TournamentTracker\TournamentLibrary\obj\Release\TournamentLibrary.dll
+C:\Users\Kyle\source\repos\TournamentTracker\TournamentLibrary\obj\Release\TournamentLibrary.pdb

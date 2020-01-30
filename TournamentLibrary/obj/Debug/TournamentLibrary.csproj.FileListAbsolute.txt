@@ -1,0 +1,5 @@
+C:\Users\Kyle\source\repos\TournamentTracker\TournamentLibrary\obj\Debug\TournamentLibrary.csprojAssemblyReference.cache
+C:\Users\Kyle\source\repos\TournamentTracker\TournamentLibrary\bin\Debug\TournamentLibrary.dll
+C:\Users\Kyle\source\repos\TournamentTracker\TournamentLibrary\bin\Debug\TournamentLibrary.pdb
+C:\Users\Kyle\source\repos\TournamentTracker\TournamentLibrary\obj\Debug\TournamentLibrary.dll
+C:\Users\Kyle\source\repos\TournamentTracker\TournamentLibrary\obj\Debug\TournamentLibrary.pdb
